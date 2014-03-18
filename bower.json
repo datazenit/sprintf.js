@@ -1,6 +1,6 @@
 {
-  "name": "datazenit-sprintf.js",
-  "main": "src/sprintf.j",
+  "name": "sprintf.js",
+  "main": "src/sprintf.js",
   "version": "0.8",
   "description": "Sprintf.js is a complete open source JavaScript sprintf implementation. This fork is compatible with Require.JS and Bower.",
   "license": "MIT"
