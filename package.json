@@ -1,6 +1,6 @@
 {
   "name": "datazenit-sprintf-js",
-  "version": "0.0.7",
+  "version": "0.8",
   "description": "JavaScript sprintf implementation",
   "main": "src/sprintf.js",
   "directories": {
